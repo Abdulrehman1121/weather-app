@@ -66,7 +66,4 @@ You are free to use and modify it as you like.
 
 ```
 
-
-
-Do you want me to also **create a `.gitignore` and `requirements.txt` (if needed)** for your repo so it looks complete?
 ```

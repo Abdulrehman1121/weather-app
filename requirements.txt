@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This is a static HTML, CSS, and JS project.
